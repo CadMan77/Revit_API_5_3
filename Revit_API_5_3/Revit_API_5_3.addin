@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <RevitAddIns>
 	<AddIn Type="Application">
-		<Name>RevitApi 5-3 Лента</Name>
+		<Name>RevitApi 5-3 Лента с кнопками (запуск команд 5-1 и 5-2)</Name>
 		<Assembly>"C:\ProgramData\RevitAPITraining\Revit_API_5_3.dll"</Assembly>
 		<AddInId>61108A29-D357-4A68-BB24-335AB0343CBD</AddInId>
 		<FullClassName>Revit_API_5_3.Main</FullClassName>

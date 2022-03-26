@@ -1,4 +1,8 @@
-﻿using Autodesk.Revit.Attributes;
+﻿// Создайте вкладку на ленте в Revit, панель и две кнопки:
+// - 1-ая запускает приложение задания 5.1;
+// - 2-ая запускает приложение задания 5.2.
+
+using Autodesk.Revit.Attributes;
 using Autodesk.Revit.DB;
 using Autodesk.Revit.UI;
 using System;
