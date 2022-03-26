@@ -39,7 +39,7 @@ namespace Revit_API_5_3
             PushButtonData pbd_5_1 = new PushButtonData("button_5_1", "Статистика (5.1)", assy_51_Path, $"{u51}.Main");
             PushButtonData pbd_5_2 = new PushButtonData("button_5_2", "Тип стен (5.2)", assy_52_Path, $"{u52}.Main");
 
-            myPanel.AddItem(pbd_5_1);
+            //myPanel.AddItem(pbd_5_1);
             myPanel.AddStackedItems(pbd_5_1, pbd_5_2);
 
             return Result.Succeeded;
