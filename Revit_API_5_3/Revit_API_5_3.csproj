@@ -42,6 +42,9 @@
     <Reference Include="Revit_API_5_1">
       <HintPath>..\..\..\..\..\..\ProgramData\RevitAPITraining\Revit_API_5_1.dll</HintPath>
     </Reference>
+    <Reference Include="Revit_API_5_2">
+      <HintPath>..\..\..\..\..\..\ProgramData\RevitAPITraining\Revit_API_5_2.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
